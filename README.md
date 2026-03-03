@@ -1,16 +1,40 @@
-## Hi there 👋
+# Front-End Practice Projects
 
-<!--
-**sharmila-13svg/sharmila-13svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Kilari Sharmila
+This repository contains my HTML, and CSS practice files.
 
-Here are some ideas to get you started:
+#Topics Covered
+-table
+-submit
+-sign.in
+-resume
+-registration
+-menucard
+-menu
+-marquee
+-listin
+-list
+-imgg
+-forms
+-form
+-favicon
+-emoji
+-div
+-color
+-checkbox
+-blocks
+-Table
+-radiobutton
+-building blocks
+-styles
+-styling
+-boxmodel
+-selectors
+-backgroundproperties
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##Technologies used
+-HTML
+-CSS
+
+This project is part of my front-end development learning journey.
+
